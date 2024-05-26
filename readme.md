@@ -127,7 +127,13 @@ x=np.array([10,20,30])
 - with feature scaling; aim for about -1<=x<sub>j</sub><=1 for each j
 - rescale only if the range of a feature is too large or too small
 
+#### Feature engineering
+- Using intuition to design new features, by transforming or combining original features.
 
+### Polynomial regression
+- includes quadratic functions, cubic functions etc
+- exponential
+- feature scaling is very important with polynomial functions
 
 ### Classification
 Classifying an input based on multiple correctly previously classified inputs
